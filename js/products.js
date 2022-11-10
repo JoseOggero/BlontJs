@@ -1,0 +1,58 @@
+const productos = [
+  {
+    id: 1,
+    nombre: "Remera Blanca",
+    precio: 3000,
+    img: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6628cd7a-dd6a-43d3-a2b1-a9c921a93f98/d4q0qtb-45c9906e-6ad2-48e7-a071-c1c6b0904f5c.png/v1/fill/w_329,h_389,strp/remera_png_by_madi_muffin_d4q0qtb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg5IiwicGF0aCI6IlwvZlwvNjYyOGNkN2EtZGQ2YS00M2QzLWEyYjEtYTljOTIxYTkzZjk4XC9kNHEwcXRiLTQ1Yzk5MDZlLTZhZDItNDhlNy1hMDcxLWMxYzZiMDkwNGY1Yy5wbmciLCJ3aWR0aCI6Ijw9MzI5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BdpUDijRp562FaEbHyHw3zHJTAXmOGYo8eYWQnIor6o",
+    cantidad: 1,
+  },
+  { 
+    id: 2,
+    nombre: "Chomba",
+    precio: 6000,
+    img: "https://i0.wp.com/www.discamp.com/wp-content/uploads/2020/04/chomba_pique_2.png?fit=1000%2C1000&ssl=1",
+    cantidad: 1,
+  },
+  { 
+    id: 3,
+    nombre: "Buzo",
+    precio: 7000,
+    img: "https://www.pngarts.com/files/11/White-Hoodie-PNG-Free-Download.png",
+    cantidad: 1,
+  },
+  { 
+    id: 4,
+    nombre: "Campera",
+    precio: 7500,
+    img: "https://www.pngarts.com/files/5/Black-Jacket-PNG-Picture.png",
+    cantidad: 1,
+  },
+  { 
+    id: 5,
+    nombre: "Pantalon",
+    precio: 5500,
+    img: "https://www.pngplay.com/wp-content/uploads/12/Jeans-PNG-Pic-Background.png",
+    cantidad: 1,
+  },
+  { 
+    id: 6,
+    nombre: "Short",
+    precio: 3500,
+    img: "https://www.transparentpng.com/thumb/shorts/linen-shorts-amherst-golf-club-png-5.png",
+    cantidad: 1,
+  },
+  { 
+    id: 7,
+    nombre: "Gorra",
+    precio: 2500,
+    img: "https://static.vecteezy.com/system/resources/previews/008/847/346/original/isolated-black-cap-front-view-free-png.png",
+    cantidad: 1,
+  },
+  { 
+    id: 8,
+    nombre: "Remera Negra",
+    precio: 3000,
+    img: "https://static.vecteezy.com/system/resources/previews/008/847/318/original/isolated-black-t-shirt-front-free-png.png",
+    cantidad: 1,
+  },
+];
